@@ -1,0 +1,5 @@
+cd_masterizzato/
+out/
+*.log
+*.mp4
+urls_first_image.txt
